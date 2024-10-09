@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nadeemn&label=Profile%20views&color=0e75b6&style=flat" alt="nadeemn" /> </p>
 
-- 🌱 I’m currently learning **Fine-tuning, Deep Generative models, Machine learning**
+- 🌱 I’m currently learning **Fine-tuning, Deep Generative models, and Machine learning.**
 
 - 📫 How to reach me **nadeemnazer123@gmail.com**
 
