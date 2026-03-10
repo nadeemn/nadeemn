@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nadeemn&label=Profile%20views&color=0e75b6&style=flat" alt="nadeemn" /> </p>
 
-- 🌱 I’m currently doing master thesis reserach on **Visual Anomaly detection** using VLM based methods.
+- 🌱 I’m currently working as a Research Associate at Research Campus Stimulate, Magdeburg, focusing on Non-hypothesis-driven identification of predictors of vasospasms, hydrocephalus, and functional outcome in patients with aneurysmal subarachnoid haemorrhage.
 
 - 📫 How to reach me **nadeemnazer123@gmail.com**
 
